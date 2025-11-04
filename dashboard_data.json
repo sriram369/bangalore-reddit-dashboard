@@ -1,0 +1,757 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-04T01:21:54.263974",
+    "source_file": "bangalore_with_topics.csv"
+  },
+  "insights": {
+    "total_posts": 1075,
+    "date_range": {
+      "start": "2015-12-16",
+      "end": "2025-05-09"
+    },
+    "years_analyzed": 11,
+    "topics_tracked": 15,
+    "top_topic": {
+      "name": "General & Discussion",
+      "count": 478,
+      "percentage": 44.5
+    },
+    "trending_topics": [
+      {
+        "topic": "Pets & Animals",
+        "growth_rate": 75.0,
+        "trend": "up"
+      },
+      {
+        "topic": "Traffic",
+        "growth_rate": -58.7,
+        "trend": "down"
+      },
+      {
+        "topic": "Weather",
+        "growth_rate": -55.6,
+        "trend": "down"
+      },
+      {
+        "topic": "Food",
+        "growth_rate": -41.9,
+        "trend": "down"
+      },
+      {
+        "topic": "Jobs & Career",
+        "growth_rate": -36.4,
+        "trend": "down"
+      }
+    ],
+    "posts_per_year": {
+      "2015": 100,
+      "2016": 100,
+      "2017": 100,
+      "2018": 100,
+      "2019": 100,
+      "2020": 100,
+      "2021": 103,
+      "2022": 100,
+      "2023": 83,
+      "2024": 89,
+      "2025": 100
+    },
+    "average_score": 12.5,
+    "average_comments": 5.5,
+    "most_discussed": [
+      {
+        "topic": "General & Discussion",
+        "total_comments": 2047
+      },
+      {
+        "topic": "Housing & Rent",
+        "total_comments": 583
+      },
+      {
+        "topic": "Culture & Events",
+        "total_comments": 559
+      },
+      {
+        "topic": "Traffic",
+        "total_comments": 540
+      },
+      {
+        "topic": "Jobs & Career",
+        "total_comments": 402
+      }
+    ]
+  },
+  "topic_trends": [
+    {
+      "year": 2015,
+      "General_Discussion": 41,
+      "Traffic": 11,
+      "Housing_Rent": 7,
+      "Jobs_Career": 6,
+      "Culture_Events": 13,
+      "Social_Life": 6,
+      "Food": 7,
+      "Health": 1,
+      "Education": 1,
+      "Safety_Law": 2,
+      "Infrastructure": 3,
+      "Pets_Animals": 1,
+      "Language": 1,
+      "Politics": 0,
+      "Weather": 0
+    },
+    {
+      "year": 2016,
+      "General_Discussion": 34,
+      "Traffic": 12,
+      "Housing_Rent": 8,
+      "Jobs_Career": 5,
+      "Culture_Events": 11,
+      "Social_Life": 7,
+      "Food": 5,
+      "Health": 1,
+      "Education": 3,
+      "Safety_Law": 2,
+      "Infrastructure": 1,
+      "Pets_Animals": 5,
+      "Language": 3,
+      "Politics": 1,
+      "Weather": 2
+    },
+    {
+      "year": 2017,
+      "General_Discussion": 47,
+      "Traffic": 9,
+      "Housing_Rent": 10,
+      "Jobs_Career": 6,
+      "Culture_Events": 7,
+      "Social_Life": 4,
+      "Food": 6,
+      "Health": 1,
+      "Education": 1,
+      "Safety_Law": 2,
+      "Infrastructure": 2,
+      "Pets_Animals": 1,
+      "Language": 1,
+      "Politics": 2,
+      "Weather": 1
+    },
+    {
+      "year": 2018,
+      "General_Discussion": 44,
+      "Traffic": 12,
+      "Housing_Rent": 7,
+      "Jobs_Career": 3,
+      "Culture_Events": 6,
+      "Social_Life": 7,
+      "Food": 8,
+      "Health": 1,
+      "Education": 3,
+      "Safety_Law": 3,
+      "Infrastructure": 4,
+      "Pets_Animals": 0,
+      "Language": 0,
+      "Politics": 0,
+      "Weather": 2
+    },
+    {
+      "year": 2019,
+      "General_Discussion": 41,
+      "Traffic": 10,
+      "Housing_Rent": 9,
+      "Jobs_Career": 9,
+      "Culture_Events": 3,
+      "Social_Life": 3,
+      "Food": 11,
+      "Health": 0,
+      "Education": 0,
+      "Safety_Law": 5,
+      "Infrastructure": 2,
+      "Pets_Animals": 4,
+      "Language": 3,
+      "Politics": 0,
+      "Weather": 0
+    },
+    {
+      "year": 2020,
+      "General_Discussion": 45,
+      "Traffic": 9,
+      "Housing_Rent": 10,
+      "Jobs_Career": 4,
+      "Culture_Events": 10,
+      "Social_Life": 3,
+      "Food": 6,
+      "Health": 3,
+      "Education": 1,
+      "Safety_Law": 0,
+      "Infrastructure": 1,
+      "Pets_Animals": 1,
+      "Language": 1,
+      "Politics": 2,
+      "Weather": 4
+    },
+    {
+      "year": 2021,
+      "General_Discussion": 60,
+      "Traffic": 3,
+      "Housing_Rent": 9,
+      "Jobs_Career": 8,
+      "Culture_Events": 4,
+      "Social_Life": 1,
+      "Food": 1,
+      "Health": 2,
+      "Education": 1,
+      "Safety_Law": 0,
+      "Infrastructure": 3,
+      "Pets_Animals": 7,
+      "Language": 2,
+      "Politics": 0,
+      "Weather": 2
+    },
+    {
+      "year": 2022,
+      "General_Discussion": 41,
+      "Traffic": 8,
+      "Housing_Rent": 7,
+      "Jobs_Career": 4,
+      "Culture_Events": 13,
+      "Social_Life": 8,
+      "Food": 6,
+      "Health": 1,
+      "Education": 3,
+      "Safety_Law": 3,
+      "Infrastructure": 1,
+      "Pets_Animals": 1,
+      "Language": 3,
+      "Politics": 1,
+      "Weather": 0
+    },
+    {
+      "year": 2023,
+      "General_Discussion": 36,
+      "Traffic": 3,
+      "Housing_Rent": 5,
+      "Jobs_Career": 4,
+      "Culture_Events": 12,
+      "Social_Life": 2,
+      "Food": 8,
+      "Health": 1,
+      "Education": 1,
+      "Safety_Law": 3,
+      "Infrastructure": 1,
+      "Pets_Animals": 2,
+      "Language": 3,
+      "Politics": 0,
+      "Weather": 2
+    },
+    {
+      "year": 2024,
+      "General_Discussion": 42,
+      "Traffic": 7,
+      "Housing_Rent": 7,
+      "Jobs_Career": 1,
+      "Culture_Events": 10,
+      "Social_Life": 8,
+      "Food": 5,
+      "Health": 2,
+      "Education": 0,
+      "Safety_Law": 1,
+      "Infrastructure": 2,
+      "Pets_Animals": 2,
+      "Language": 1,
+      "Politics": 1,
+      "Weather": 0
+    },
+    {
+      "year": 2025,
+      "General_Discussion": 47,
+      "Traffic": 5,
+      "Housing_Rent": 10,
+      "Jobs_Career": 4,
+      "Culture_Events": 3,
+      "Social_Life": 1,
+      "Food": 5,
+      "Health": 1,
+      "Education": 1,
+      "Safety_Law": 9,
+      "Infrastructure": 4,
+      "Pets_Animals": 9,
+      "Language": 1,
+      "Politics": 0,
+      "Weather": 0
+    }
+  ],
+  "topic_distribution": [
+    {
+      "name": "General & Discussion",
+      "value": 478,
+      "color": "#6b7280"
+    },
+    {
+      "name": "Culture & Events",
+      "value": 92,
+      "color": "#14b8a6"
+    },
+    {
+      "name": "Traffic",
+      "value": 89,
+      "color": "#ef4444"
+    },
+    {
+      "name": "Housing & Rent",
+      "value": 89,
+      "color": "#f59e0b"
+    },
+    {
+      "name": "Food",
+      "value": 68,
+      "color": "#10b981"
+    },
+    {
+      "name": "Jobs & Career",
+      "value": 54,
+      "color": "#8b5cf6"
+    },
+    {
+      "name": "Social & Life",
+      "value": 50,
+      "color": "#06b6d4"
+    },
+    {
+      "name": "Pets & Animals",
+      "value": 33,
+      "color": "#22c55e"
+    },
+    {
+      "name": "Safety & Law",
+      "value": 30,
+      "color": "#ec4899"
+    },
+    {
+      "name": "Infrastructure",
+      "value": 24,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Language",
+      "value": 19,
+      "color": "#f97316"
+    },
+    {
+      "name": "Education",
+      "value": 15,
+      "color": "#eab308"
+    },
+    {
+      "name": "Health",
+      "value": 14,
+      "color": "#84cc16"
+    },
+    {
+      "name": "Weather",
+      "value": 13,
+      "color": "#a855f7"
+    },
+    {
+      "name": "Politics",
+      "value": 7,
+      "color": "#f43f5e"
+    }
+  ],
+  "top_posts": [
+    {
+      "topic": "General_Discussion",
+      "title": "Koramangala yesterday",
+      "year": 2022,
+      "score": 953,
+      "num_comments": 152
+    },
+    {
+      "topic": "General_Discussion",
+      "title": "Entered Shivaji Nagar. Worst mistake of my life 🥲",
+      "year": 2022,
+      "score": 875,
+      "num_comments": 93
+    },
+    {
+      "topic": "Food",
+      "title": "I snuck out of my home for the first time!!",
+      "year": 2022,
+      "score": 435,
+      "num_comments": 70
+    },
+    {
+      "topic": "Housing_Rent",
+      "title": "NoBroker is horrible! What is the alternative in Bangalore ?",
+      "year": 2021,
+      "score": 316,
+      "num_comments": 84
+    },
+    {
+      "topic": "General_Discussion",
+      "title": "To the last sunset of 2022🍻",
+      "year": 2022,
+      "score": 302,
+      "num_comments": 8
+    },
+    {
+      "topic": "Housing_Rent",
+      "title": "Got scammed in the name of PG",
+      "year": 2020,
+      "score": 279,
+      "num_comments": 64
+    },
+    {
+      "topic": "Pets_Animals",
+      "title": "I lost my cat 4 days back near Manipal hospital ITPL. We had put a tracker on him but the GPS ran ou...",
+      "year": 2021,
+      "score": 253,
+      "num_comments": 24
+    },
+    {
+      "topic": "Traffic",
+      "title": "Police to use 2,000 body-worn cameras to monitor Bengaluru’s traffic: hope this reduces unauthorized...",
+      "year": 2021,
+      "score": 215,
+      "num_comments": 10
+    },
+    {
+      "topic": "Culture_Events",
+      "title": "What is the obsession with movie stars and treating them like god ?",
+      "year": 2020,
+      "score": 198,
+      "num_comments": 79
+    },
+    {
+      "topic": "Pets_Animals",
+      "title": "Indie pup for adoption",
+      "year": 2020,
+      "score": 165,
+      "num_comments": 9
+    },
+    {
+      "topic": "Jobs_Career",
+      "title": "Part-time food delivery jobs in Bangalore",
+      "year": 2021,
+      "score": 152,
+      "num_comments": 78
+    },
+    {
+      "topic": "Traffic",
+      "title": "MG Road Metro Station",
+      "year": 2018,
+      "score": 149,
+      "num_comments": 14
+    },
+    {
+      "topic": "Culture_Events",
+      "title": "It's almost New Year and I literally don't feel like doing anything",
+      "year": 2022,
+      "score": 146,
+      "num_comments": 79
+    },
+    {
+      "topic": "Housing_Rent",
+      "title": "Please help find a forever home for the adorable furball.",
+      "year": 2021,
+      "score": 115,
+      "num_comments": 14
+    },
+    {
+      "topic": "Traffic",
+      "title": "Be like Mr Raju (the amazing auto man)",
+      "year": 2022,
+      "score": 101,
+      "num_comments": 15
+    }
+  ],
+  "monthly_trends": [
+    {
+      "month": "2015-12",
+      "Culture_Events": 13,
+      "Education": 1,
+      "Food": 7,
+      "General_Discussion": 41,
+      "Health": 1,
+      "Housing_Rent": 7,
+      "Infrastructure": 3,
+      "Jobs_Career": 6,
+      "Language": 1,
+      "Pets_Animals": 1,
+      "Safety_Law": 2,
+      "Social_Life": 6,
+      "Traffic": 11
+    },
+    {
+      "month": "2016-12",
+      "Culture_Events": 11,
+      "Education": 3,
+      "Food": 5,
+      "General_Discussion": 34,
+      "Health": 1,
+      "Housing_Rent": 8,
+      "Infrastructure": 1,
+      "Jobs_Career": 5,
+      "Language": 3,
+      "Pets_Animals": 5,
+      "Politics": 1,
+      "Safety_Law": 2,
+      "Social_Life": 7,
+      "Traffic": 12,
+      "Weather": 2
+    },
+    {
+      "month": "2017-12",
+      "Culture_Events": 7,
+      "Education": 1,
+      "Food": 6,
+      "General_Discussion": 47,
+      "Health": 1,
+      "Housing_Rent": 10,
+      "Infrastructure": 2,
+      "Jobs_Career": 6,
+      "Language": 1,
+      "Pets_Animals": 1,
+      "Politics": 2,
+      "Safety_Law": 2,
+      "Social_Life": 4,
+      "Traffic": 9,
+      "Weather": 1
+    },
+    {
+      "month": "2018-12",
+      "Culture_Events": 6,
+      "Education": 3,
+      "Food": 8,
+      "General_Discussion": 44,
+      "Health": 1,
+      "Housing_Rent": 7,
+      "Infrastructure": 4,
+      "Jobs_Career": 3,
+      "Safety_Law": 3,
+      "Social_Life": 7,
+      "Traffic": 12,
+      "Weather": 2
+    },
+    {
+      "month": "2019-12",
+      "Culture_Events": 3,
+      "Food": 11,
+      "General_Discussion": 41,
+      "Housing_Rent": 9,
+      "Infrastructure": 2,
+      "Jobs_Career": 9,
+      "Language": 3,
+      "Pets_Animals": 4,
+      "Safety_Law": 5,
+      "Social_Life": 3,
+      "Traffic": 10
+    },
+    {
+      "month": "2020-12",
+      "Culture_Events": 10,
+      "Education": 1,
+      "Food": 6,
+      "General_Discussion": 45,
+      "Health": 3,
+      "Housing_Rent": 10,
+      "Infrastructure": 1,
+      "Jobs_Career": 4,
+      "Language": 1,
+      "Pets_Animals": 1,
+      "Politics": 2,
+      "Social_Life": 3,
+      "Traffic": 9,
+      "Weather": 4
+    },
+    {
+      "month": "2021-12",
+      "Culture_Events": 4,
+      "Education": 1,
+      "Food": 1,
+      "General_Discussion": 60,
+      "Health": 2,
+      "Housing_Rent": 9,
+      "Infrastructure": 3,
+      "Jobs_Career": 8,
+      "Language": 2,
+      "Pets_Animals": 7,
+      "Social_Life": 1,
+      "Traffic": 3,
+      "Weather": 2
+    },
+    {
+      "month": "2022-12",
+      "Culture_Events": 13,
+      "Education": 3,
+      "Food": 6,
+      "General_Discussion": 41,
+      "Health": 1,
+      "Housing_Rent": 7,
+      "Infrastructure": 1,
+      "Jobs_Career": 4,
+      "Language": 3,
+      "Pets_Animals": 1,
+      "Politics": 1,
+      "Safety_Law": 3,
+      "Social_Life": 8,
+      "Traffic": 8
+    },
+    {
+      "month": "2023-12",
+      "Culture_Events": 12,
+      "Education": 1,
+      "Food": 8,
+      "General_Discussion": 36,
+      "Health": 1,
+      "Housing_Rent": 5,
+      "Infrastructure": 1,
+      "Jobs_Career": 4,
+      "Language": 3,
+      "Pets_Animals": 2,
+      "Safety_Law": 3,
+      "Social_Life": 2,
+      "Traffic": 3,
+      "Weather": 2
+    },
+    {
+      "month": "2024-12",
+      "Culture_Events": 10,
+      "Food": 5,
+      "General_Discussion": 42,
+      "Health": 2,
+      "Housing_Rent": 7,
+      "Infrastructure": 2,
+      "Jobs_Career": 1,
+      "Language": 1,
+      "Pets_Animals": 2,
+      "Politics": 1,
+      "Safety_Law": 1,
+      "Social_Life": 8,
+      "Traffic": 7
+    },
+    {
+      "month": "2025-05",
+      "Culture_Events": 3,
+      "Education": 1,
+      "Food": 5,
+      "General_Discussion": 47,
+      "Health": 1,
+      "Housing_Rent": 10,
+      "Infrastructure": 4,
+      "Jobs_Career": 4,
+      "Language": 1,
+      "Pets_Animals": 9,
+      "Safety_Law": 9,
+      "Social_Life": 1,
+      "Traffic": 5
+    }
+  ],
+  "topic_keywords": {
+    "General_Discussion": [
+      "bangalore",
+      "year",
+      "happy",
+      "what",
+      "anyone"
+    ],
+    "Traffic": [
+      "road",
+      "bangalore",
+      "traffic",
+      "bengaluru",
+      "what"
+    ],
+    "Housing_Rent": [
+      "bangalore",
+      "please",
+      "help",
+      "need",
+      "good"
+    ],
+    "Jobs_Career": [
+      "work",
+      "bangalore",
+      "bengaluru",
+      "company",
+      "here"
+    ],
+    "Culture_Events": [
+      "bangalore",
+      "year",
+      "party",
+      "what",
+      "where"
+    ],
+    "Social_Life": [
+      "bangalore",
+      "tomorrow",
+      "meetup",
+      "people",
+      "friends"
+    ],
+    "Food": [
+      "bangalore",
+      "city",
+      "bengaluru",
+      "year",
+      "places"
+    ],
+    "Health": [
+      "good",
+      "covid",
+      "hospital",
+      "doctors",
+      "bangalore"
+    ],
+    "Education": [
+      "bangalore",
+      "university",
+      "schools",
+      "students",
+      "what"
+    ],
+    "Safety_Law": [
+      "first",
+      "security",
+      "bengaluru",
+      "bangalore",
+      "time"
+    ],
+    "Infrastructure": [
+      "bangalore",
+      "lake",
+      "park",
+      "parks",
+      "near"
+    ],
+    "Pets_Animals": [
+      "adoption",
+      "bangalore",
+      "online",
+      "kitten",
+      "carryout"
+    ],
+    "Language": [
+      "local",
+      "language",
+      "techie",
+      "looking",
+      "anyone"
+    ],
+    "Politics": [
+      "karnataka",
+      "game",
+      "voter",
+      "welcome",
+      "comical"
+    ],
+    "Weather": [
+      "season",
+      "episode",
+      "trainer",
+      "kurulus",
+      "osman"
+    ]
+  }
+}
