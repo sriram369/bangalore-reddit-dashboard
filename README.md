@@ -2,13 +2,13 @@
 
 An interactive dashboard that visualizes a decade of discussions, trends, and sentiments from the r/bangalore subreddit, built with Streamlit, Pandas, and Plotly.
 
-![]
+
 
 ---
 
 ## 🚀 Live Dashboard
 
-**[View the live Streamlit app here!](https://your-streamlit-app-url.streamlit.app)**
+**[View the live Streamlit app here!]([r-bangalore](https://r-bangalore.streamlit.app/))**
 
 *(Replace the link above with your own after you deploy it)*
 
