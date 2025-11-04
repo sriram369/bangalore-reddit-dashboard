@@ -8,9 +8,9 @@ An interactive dashboard that visualizes a decade of discussions, trends, and se
 
 ## 🚀 Live Dashboard
 
-**[View the live Streamlit app here!]([r-bangalore](https://r-bangalore.streamlit.app/))**
+**[View the live Streamlit app here!]([r-bangalore] (https://r-bangalore.streamlit.app/))**
 
-*(Replace the link above with your own after you deploy it)*
+https://r-bangalore.streamlit.app/
 
 ---
 
